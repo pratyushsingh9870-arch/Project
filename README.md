@@ -1,7 +1,7 @@
 # Project Title
    
    ##  One-line impact statement
-   "Computer vision system achieving 92% accuracy on 3000+ medical images"
+   "Computer vision system achieving 92% accuracy on 3000+ waste images"
    
   
    
