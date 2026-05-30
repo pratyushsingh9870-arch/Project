@@ -2,7 +2,6 @@
 
 > AI-powered waste classification system using Computer Vision and Deep Learning to automate waste sorting and improve recycling efficiency.
 
-![Dataset Samples](assets/op.png)
 
 ---
 
@@ -65,7 +64,7 @@ The model correctly identified plastic waste with high confidence.
 **Prediction:** Plastic
 **Confidence:** 97.10%
 
-![Plastic Prediction](assets/op3.png)
+![ Prediction](assets/op3.png)
 
 ---
 
@@ -73,7 +72,7 @@ The model correctly identified plastic waste with high confidence.
 
 ### Classification Report
 
-![Classification Report](assets/report.png)
+![Classification Report](assets/report(1).png)
 
 ### Performance Metrics
 
@@ -86,34 +85,8 @@ The model correctly identified plastic waste with high confidence.
 | FPS       | 30+   |
 
 ---
-##  Project Results
 
 
-
-![Dataset Samples](assets/op.png)
-
-### Organic Waste Classification
-
-The model correctly identified organic waste with high confidence.
-
-**Prediction:** Organic  
-**Confidence:** 97.88%
-
-![ Waste Detection](assets/op2.png)
-
-### Plastic Waste Classification
-
-The model successfully classified plastic waste with high confidence.
-
-**Prediction:** Plastic  
-**Confidence:** 97.10%
-
-![ Waste Detection](assets/op3.png)
-
-### Classification Report
-
-![Classification Report](assets/report(1).png)
----
 
 ## ⚙️ Technology Stack
 
@@ -137,7 +110,7 @@ The model successfully classified plastic waste with high confidence.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Smart-Waste-Segregation-System/
