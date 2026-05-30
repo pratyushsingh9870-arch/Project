@@ -72,7 +72,7 @@ The model correctly identified plastic waste with high confidence.
 
 ### Classification Report
 
-![Classification Report](assets/report(1).png)
+![Classification Report](assets/report (1)).png)
 
 ### Performance Metrics
 
