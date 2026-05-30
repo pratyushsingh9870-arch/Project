@@ -1,23 +1,27 @@
-# Project Title
-   
-   ##  One-line impact statement
-   "Computer vision system achieving 92% accuracy on 3000+ waste images"
-   
-  
-   
-   ## Key Results
-   - Metric 1: 92% classification accuracy
-   - Metric 2: 0.89 F1-score
-   - Metric 3: Handles class imbalance with SMOTE
-   
+## 📸 Project Results
 
-   
-   ## Tech Stack
-   Python • TensorFlow • Keras • OpenCV • ResNet
-   
-   ## Project Structure
-   project/
-├── data/
-├── models/
-├── notebooks/
-└── src/
+### Dataset Samples
+
+![Dataset Samples](assets/op.png)
+
+### Organic Waste Classification
+
+The model correctly identified organic waste with high confidence.
+
+**Prediction:** Organic  
+**Confidence:** 97.88%
+
+![Organic Waste Detection](assets/op2.png)
+
+### Plastic Waste Classification
+
+The model successfully classified plastic waste with high confidence.
+
+**Prediction:** Plastic  
+**Confidence:** 97.10%
+
+![Plastic Waste Detection](assets/op3.png)
+
+### Classification Report
+
+![Classification Report](assets/report.png)
